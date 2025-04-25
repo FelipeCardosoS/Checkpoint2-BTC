@@ -49,7 +49,7 @@ Modelos de dados que representam a resposta da API:
 ---
 
 
-![Imagem do teste de APP](TesteAPP.png)
+![Imagem do teste de APP](TesteApp.png)
 
 Desenvolvido para fins acadêmicos por 
 - Felipe Cardoso RM 99062
