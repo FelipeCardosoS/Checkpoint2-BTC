@@ -47,7 +47,7 @@ Modelos de dados que representam a resposta da API:
 - [https://www.mercadobitcoin.net/api/BTC/ticker/](https://www.mercadobitcoin.net/api/BTC/ticker/)
 
 ---
-
+##Imagem do teste do aplicativo no emulador
 
 ![Imagem do teste de APP](TesteApp.png)
 
