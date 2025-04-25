@@ -50,7 +50,7 @@ Modelos de dados que representam a resposta da API:
 ## Imagem do teste do aplicativo no emulador
 
 ![Imagem do teste de APP](TesteApp.png)
-
-Desenvolvido para fins acadêmicos por 
+---
+## Desenvolvido para fins acadêmicos por 
 - Felipe Cardoso RM 99062
 - Carlos Augusto RM 98456
